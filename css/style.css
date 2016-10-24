@@ -1,0 +1,14 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#navigation li>a{
+    color: #EE2323;
+    margin: 0px 2px;
+}
+#navigation li>a:hover{
+    border-bottom: 5px solid #EE2323;
+    font-weight: bold;
+    
+}
